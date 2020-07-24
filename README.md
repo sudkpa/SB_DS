@@ -4,6 +4,7 @@
 Data Science Career Track - assignment notebooks and Project notebooks
 
 # SB_Apps Project
+Other Springboard Data Science projects
 
 ## worked_notebooks
 Contain the worked example notebooks that include completed code.
